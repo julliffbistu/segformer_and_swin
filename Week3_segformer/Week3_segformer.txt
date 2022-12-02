@@ -1,0 +1,14 @@
+
+视频教程：
+https://www.bilibili.com/video/BV1Y44y1C7b8/
+
+数据集与权重链接：
+数据集：链接：https://pan.baidu.com/s/1olX-YfJu_APOQjWVJ45HKA 
+		提取码：BDAS 
+		--来自百度网盘超级会员V3的分享
+预训练权重：链接：https://pan.baidu.com/s/1rXDkRIlp10km85RO6-gxrw 
+			提取码：BDAS 
+			--来自百度网盘超级会员V3的分享
+训练好的权重：链接：https://pan.baidu.com/s/1ol_ddRkL0cq2nUV1vzJ83A 
+			提取码：BDAS 
+			--来自百度网盘超级会员V3的分享
